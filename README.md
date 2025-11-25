@@ -5,16 +5,18 @@
 To design and implement a digital clock circuit using an oscillator as the time-base generator and basic logic gates/counters for generating seconds, minutes, and hours, and to display the time using digital displays
 
 # COMPONENT REQUIRED
+<img width="1280" height="727" alt="image" src="https://github.com/user-attachments/assets/59392ef0-9d0d-4ae3-a4e0-b011d67a61ce" />
 
 
 
 # THEORY 
 
-<img width="1600" height="1018" alt="image" src="https://github.com/user-attachments/assets/02173a9e-8be7-47b0-bd35-2391b921d905" />
+<img width="1080" height="647" alt="image" src="https://github.com/user-attachments/assets/8dd5147e-db82-453c-981b-d6321c3183d2" />
+
 
 
 # PROCEDURE 
-<img width="1153" height="1283" alt="image" src="https://github.com/user-attachments/assets/efeb076d-2d92-4156-a637-301d34ef24e2" />
+<img width="1080" height="802" alt="image" src="https://github.com/user-attachments/assets/1d1f6c96-3660-47bb-8af6-2bc126f18955" />
 
 # BLOCK DIAGRAM
 
@@ -23,11 +25,11 @@ To design and implement a digital clock circuit using an oscillator as the time-
 
 # OBSERVATION 
 
-<img width="1600" height="572" alt="image" src="https://github.com/user-attachments/assets/9928987d-4f1b-410b-9f30-b3d7f6361516" />
+<img width="1028" height="359" alt="image" src="https://github.com/user-attachments/assets/34ebc7a6-b659-40c4-b95e-3155dd903873" />
+
 
 
 # RESULT
-
-<img width="1600" height="611" alt="image" src="https://github.com/user-attachments/assets/a8a0a2e9-f8eb-4a13-9dcf-e0626ef72187" />
+<img width="1280" height="437" alt="image" src="https://github.com/user-attachments/assets/2633db7e-70bd-4b2a-aad3-35b6069069a6" />
 
 
